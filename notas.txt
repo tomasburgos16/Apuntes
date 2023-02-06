@@ -1,3 +1,7 @@
 Capítulo 1: Intoducción a Git
 Capítulo 2: Flujo de trabajo básico
-Capítulo 3: Repositorios remotos
+<<<<<<< HEAD
+Capítulo 3: Repositorios no es remoto
+=======
+Capítulo 3: Repositorios local
+>>>>>>> fe28d778e5ae0a3e1d5b4493f45f37a127ce327c
